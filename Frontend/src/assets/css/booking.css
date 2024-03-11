@@ -1,0 +1,21 @@
+.booking-grid {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-top: 2%;
+}
+
+.grid1 img:hover{
+    box-shadow: 0 0.5rem 1rem rgba(46, 41, 41, 0.85);
+    transform: scale(1.1);
+}
+
+.grid2 img:hover{
+    box-shadow: 0 0.5rem 1rem rgba(46, 41, 41, 0.85);
+    transform: scale(1.1);
+}
+
+.grid3 img:hover{
+    box-shadow: 0 0.5rem 1rem rgba(46, 41, 41, 0.85);
+    transform: scale(1.1);
+}
+
